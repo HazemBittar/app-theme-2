@@ -160,6 +160,13 @@ body {
   #page {
     margin-bottom: 40px;
   }
+
+  /* SUBHEADER */
+  #subheader .row{ /* this is missing code */
+      background-color: #333;
+      color: #fff;
+  }
+
   
   /* SERVICES */
   .services ul li {
