@@ -4,13 +4,16 @@
 
 | _Step Name_ | User Story | Changes in HTML | Changes in CSS |
 | --- | --- | --- | --- |
-| __Creating Necessary Files__ | As an enthusiastic HYF student I can create necessary files first so that I know the project files are set up correctly | Create empty files | Create empty files |
-| __HTML Content__ | As an enthusiastic HYF student I can create the HTML structure so that I have a goor semantic base to build upon. | A full template project with `doctype`, language, charset, `head` & `body` | none |
-| __CSS code__ | As an enthusiastic HYF student I can create the the CSS code so that I have a nice looking website.  | none | queries for the CSS |
+| __CreatingDevelopment.md__ | As an enthusiastic HYF student I can navigate to an development file so that I can set up correctly user stories. | none | none |
+| __Blank Pages__ | As an enthusiastic HYF student I can navigate to an empty website so that I know the project is set up correctly | An empty template project with `doctype`, title, description, language, charset, keywords, author, `head` & `body` | an empty file |
+| __Creating Necessary Files__ | As an enthusiastic HYF student I can create necessary files first so that I know the project files are set up correctly | Create empty HTML | Create empty CSS files |
+| __HTML Content-1__ | Creating header section and plan flexbox view. | index.HTML editting` | none |
+| __HTML Content-2__ | Creating showcase and sections in it. | index.HTML editting` | none |
+| __CustomizingStyleCSS-1__ | As an enthusiastic HYF student I can create the the CSS code so that I have a nice looking website.  | none | fontawesome.css file adding and using |
+| __HTML Content-3__ | Creating other links about, services and contact. | about.html, services.html, contact.html editting` | none |
+| __CustomizingStyleCSS-2__ | Editting CSS code for about, services and contact pages. | none | editting style.css file |
 | ... | ... | ... | ... |
 | (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
-
-
 ---
 ---
 
